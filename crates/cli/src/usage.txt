@@ -1,0 +1,10 @@
+argus-sync — a folder of an Argus server, kept in sync with a folder on this computer
+
+  argus-sync connect '<link from Argus>' <folder here>
+      In Argus: a folder's menu → Sync to your computer… gives the link.
+  argus-sync list                 the folders connected
+  argus-sync run                  keep them all in sync, until stopped (Ctrl-C)
+  argus-sync once                 one round, then exit
+  argus-sync fetch <name> <path>  bring a file over the size limit
+  argus-sync pause|resume <name>
+  argus-sync forget <name>        stop syncing it (the files stay, on both sides)

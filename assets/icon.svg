@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>argus-sync</title>
+  <rect width="512" height="512" rx="116" fill="#0f1820"/>
+  <circle cx="337.92" cy="397.89" r="9.66" fill="#1f7f79"/>
+  <circle cx="386.85" cy="354.60" r="13.02" fill="#1f7f79"/>
+  <circle cx="414.97" cy="295.64" r="16.37" fill="#1f7f79"/>
+  <circle cx="417.82" cy="230.37" r="20.15" fill="#1f7f79"/>
+  <circle cx="394.94" cy="169.18" r="25.19" fill="#e3a93b"/>
+  <circle cx="174.08" cy="114.11" r="9.66" fill="#1f7f79"/>
+  <circle cx="125.15" cy="157.40" r="13.02" fill="#1f7f79"/>
+  <circle cx="97.03" cy="216.36" r="16.37" fill="#1f7f79"/>
+  <circle cx="94.18" cy="281.63" r="20.15" fill="#1f7f79"/>
+  <circle cx="117.06" cy="342.82" r="25.19" fill="#1f7f79"/>
+  <circle cx="256.00" cy="256.00" r="104.96" fill="#9fe2c6"/>
+  <circle cx="256.00" cy="256.00" r="58.78" fill="#0a1117"/>
+  <circle cx="235.01" cy="235.01" r="14.27" fill="#f4f7f6"/>
+</svg>

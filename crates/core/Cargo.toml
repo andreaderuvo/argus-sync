@@ -1,0 +1,22 @@
+[package]
+name = "argus-sync-core"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "The sync engine of argus-sync: a local folder kept in two-way sync with a folder on an Argus server"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+ureq = { version = "2", default-features = false, features = ["tls", "json"] }
+walkdir = "2"
+unicode-normalization = "0.1"
+filetime = "0.2"
+trash = "5"
+urlencoding = "2"
+chrono = { version = "0.4", default-features = false, features = ["clock"] }
+dirs = "5"
+rand = "0.8"
+
+[dev-dependencies]
+tempfile = "3"

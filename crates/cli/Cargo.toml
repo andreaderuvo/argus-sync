@@ -1,0 +1,13 @@
+[package]
+name = "argus-sync-cli"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[[bin]]
+name = "argus-sync"
+path = "src/main.rs"
+
+[dependencies]
+argus-sync-core = { path = "../core" }
+notify = "8"
